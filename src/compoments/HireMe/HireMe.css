@@ -1,0 +1,12 @@
+.hire-me {
+    border: 1px solid lightseagreen;
+    width: 700px;
+    margin: 45px auto;
+    padding: 45px;
+    text-align: center;
+    border-radius: 50px;
+}
+
+.hire-me img {
+    height: 120px
+}

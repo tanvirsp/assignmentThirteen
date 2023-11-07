@@ -1,0 +1,17 @@
+.big-text-section {
+    background-image: linear-gradient(0deg, #227bb3, #080808  );
+}
+
+.big-text-section {
+    color: white;
+    text-align: center;
+}
+
+.big-text-section h2 {
+    font-weight: 300;
+}
+
+.contact-btn {
+    margin-top: 45px;
+    border-radius: 25px;
+}

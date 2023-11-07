@@ -1,0 +1,17 @@
+.author-card {
+    border: 1px solid lightgray;
+    padding: 25px;
+    background-color: #89CEF9;
+    border-radius: 15px;
+    margin: 5px 0;
+    text-align: center;
+}
+
+.author-card img {
+    border-radius: 50%;
+    border: 2px solid #89CEF9;
+}
+
+.author-card h5 {
+    margin: 10px 0;
+}

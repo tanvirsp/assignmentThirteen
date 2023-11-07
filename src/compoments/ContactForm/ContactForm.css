@@ -1,0 +1,41 @@
+.contact-bg {
+    background-color: #89cef931  ;
+}
+.contact-section {
+    margin: 35px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 15px;
+}
+
+.contac-img {
+    width: 90%;
+    border-radius: 20px;
+}
+
+form {
+    margin-top: 25px;
+}
+
+form input, form textarea {
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0;
+    border: 1px solid lightgray;
+    border-radius: 20px;
+
+}
+
+
+form input[type=submit] {
+    background-color:#89CEF9;
+    font-size: 18px;
+    font-weight: 600;
+    letter-spacing: 20px;
+    color: white;
+    border: none;
+}
+
+form input[type=submit]:hover{
+    background-color:#131427;
+}

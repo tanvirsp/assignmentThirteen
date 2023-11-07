@@ -1,0 +1,16 @@
+.page-title {
+    height: 250px;
+    background-color: #131427;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-top: 1px solid rgba(255, 255, 255, 0.334)
+}
+
+.page-title h2 {
+    font-size: 45px;
+    font-weight: 400;
+    color: #89CEF9
+
+
+}

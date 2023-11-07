@@ -1,0 +1,15 @@
+.counter-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 30px;
+}
+
+.counter-grid-item {
+    display: flex;
+    align-items: center;
+}
+
+.counter-grid-item img {
+    width: 55px;
+    margin-right: 20px
+}

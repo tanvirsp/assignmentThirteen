@@ -1,0 +1,24 @@
+.review-grid {
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 35px;
+}
+
+.review-item  {
+    text-align: center;
+}
+
+.review-item img {
+    border-radius: 50%;
+    border: 1px solid #89CEF9 ;
+}
+
+.review-item h5 {
+    margin: 5px 0;
+    color: #89CEF9;
+}
+
+.review-item .designation {
+    margin-bottom: 20px;
+    font-weight: 600;
+}

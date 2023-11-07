@@ -1,0 +1,17 @@
+.banner-one {
+    background-image: url(../../assets/images/banner-3.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    padding: 120px 0px;
+}
+
+
+
+.big-title {
+    text-align: center;
+    color: transparent;
+    font-size: 85px;
+    -webkit-text-stroke: 1px white;
+}

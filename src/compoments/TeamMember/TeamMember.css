@@ -1,0 +1,27 @@
+.team-member {
+    display: flex;
+   
+   
+  
+}
+
+.section-title {
+    text-align: center;
+    margin-bottom: 35px;
+}
+
+
+.member {
+    text-align: center;
+    margin: 15px;
+    padding: 35px;
+}
+
+.member h4 {
+    margin: 15px 0
+}
+
+.member img {
+    width: 75%;
+    border-radius: 15px;
+}

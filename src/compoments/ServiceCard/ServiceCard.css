@@ -1,0 +1,15 @@
+.service-card {
+    padding: 35px;
+    background-color: #F4F8FD;
+
+}
+
+.service-card h5 {
+    margin: 10px 0;
+    font-size: 20px;
+} 
+
+.service-card p {
+    font-size: 15px;
+    
+}

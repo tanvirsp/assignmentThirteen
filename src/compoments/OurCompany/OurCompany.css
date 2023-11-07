@@ -1,0 +1,22 @@
+.our-company {
+    display: flex;
+}
+
+.card {
+    padding: 35px;
+    border: 1px solid lightgray;
+    margin: 0 20px;
+    border-radius: 15px;
+}
+
+.card h4 {
+    margin-bottom: 10px;
+}
+
+.card img {
+    width: 85px;
+    margin-bottom: 10px;
+    background-color: #89cef943;
+    padding: 15px;
+    border-radius: 10px;
+}

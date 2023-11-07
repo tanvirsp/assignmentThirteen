@@ -1,0 +1,25 @@
+.service-content {
+    display: flex;
+    align-items: center;
+}
+
+.service-items {
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 25px;
+}
+
+.service-text {
+    padding-right: 55px;
+}
+
+.service-text h2 {
+    margin-bottom: 20px;
+}
+
+.service-text button {
+    margin-top: 55px;
+    background-color: #131427;
+    font-weight: 700;
+    color: white
+}

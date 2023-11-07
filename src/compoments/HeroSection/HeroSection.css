@@ -1,0 +1,32 @@
+.hero-section {
+    height: 700px;
+    background-image: url(../../assets/images/hero-banner.jpg);
+    padding: 0 35px;
+    display: flex;
+    align-items: center;
+}
+
+.hero-content {
+    margin-left: 150px
+}
+
+.high-light {
+    color: #131427
+}
+
+.hero-content h1 {
+    font-size: 85px;
+    color: white
+}
+
+.hero-content p {
+    font-size: 25px;
+    letter-spacing: 10px;
+}
+
+.hero-content button {
+    background-color: #131427;
+    margin-top: 35px;
+    font-weight: 700;
+    color: white
+}
